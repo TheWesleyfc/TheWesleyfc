@@ -12,3 +12,7 @@ Olá, me chamo Wesley, sou um estudante de ciência da computação e aspirante 
 - tenho interesse em aprender a desenhar, em especial animes, mangás e manwas.
 - gosto de animes, mangás e manwas. em especial sou muito fã de death note.
 - sou eclético, mas escuto bem mais indie e rock.
+
+## aviso:
+
+meus estudos referente a programação estão pausados no momento, estou me preparando para o vestibular.
